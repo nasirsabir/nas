@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasır Sabır</h1>
+<h1 align="center">Hi, I'm Nasır Sabır 👋</h1>
 <h2 align="center">A passionate for learning AI & ML solutions and IOS developer from Istanbul, Türkiye.</h2>
 
 - 🔭 I’m currently working on **Violence detection in surveillance videos**
@@ -21,5 +21,3 @@
 <h2 align="left">GitHub Stats:</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasirsabir&show_icons=true&locale=en&layout=compact" alt="nasirsabir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirsabir&" alt="nasirsabir" /></p>
