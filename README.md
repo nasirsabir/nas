@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Nasır Sabır 👋</h1>
-<h2 align="center">Passionate for learning AI & ML solutions and IOS development from Istanbul, Türkiye.</h2>
+<h1 >Hi, I'm Nasır Sabır 👋</h1>
+<h4 >Passionate for learning AI & ML solutions and IOS development from Istanbul, Türkiye.</h4>
 
+---
 - 🔭 I’m currently working on **Violence detection in surveillance videos**
 
 - 🌱 I’m currently learning **Swift, Machine Learning with Python**
