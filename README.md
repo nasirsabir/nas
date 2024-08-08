@@ -4,7 +4,7 @@
 ---
 - 🔭 I’m currently working on **Violence detection in surveillance videos**
 
-- 🌱 I’m currently learning **Swift, Machine Learning with Python**
+- 🌱 I’m currently learning **Swift, Angular Framework and Machine Learning with Python**
 
 - 📫 How to reach me **muhammednsrsbr@gmail.com**
 
